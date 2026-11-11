@@ -1,0 +1,14 @@
+# Python and local build output
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+AERI.exe
+
+# Local user data and diagnostic files
+AERI-error.log
+apps.json.bak
+
+# Generated release archives should be attached to GitHub Releases, not committed.
+release/

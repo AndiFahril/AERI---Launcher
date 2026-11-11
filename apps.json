@@ -1,0 +1,42 @@
+[
+  {
+    "name": "File Explorer",
+    "icon": "auto",
+    "type": "app",
+    "path": "explorer.exe",
+    "category": "Sistem",
+    "hotkey": "E"
+  },
+  {
+    "name": "Notepad",
+    "icon": "auto",
+    "type": "app",
+    "path": "notepad.exe",
+    "category": "Produktivitas",
+    "hotkey": "N"
+  },
+  {
+    "name": "Documents",
+    "icon": "auto",
+    "type": "folder",
+    "path": "%USERPROFILE%\\Documents",
+    "category": "Folder",
+    "hotkey": "D"
+  },
+  {
+    "name": "Downloads",
+    "icon": "auto",
+    "type": "folder",
+    "path": "%USERPROFILE%\\Downloads",
+    "category": "Folder",
+    "hotkey": "W"
+  },
+  {
+    "name": "ChatGPT",
+    "icon": "auto",
+    "type": "website",
+    "path": "https://chatgpt.com",
+    "category": "Web",
+    "hotkey": "G"
+  }
+]
